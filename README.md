@@ -1,3 +1,3 @@
 # Banking site
 
-https://app.netlify.com/projects/bankist-tufail/overview
+https://bankist-tufail.netlify.app/
